@@ -1,0 +1,16 @@
+/*this is the padding for the image title, iamge and the text*/
+div.ImageAndText {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+  }
+
+/*This sets the size of the text*/
+  div.ImageAndText {
+    font-size: 20px;
+  }
+
+  div.information {
+    text-align: left;
+  }

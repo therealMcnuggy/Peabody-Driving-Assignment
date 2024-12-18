@@ -1,0 +1,18 @@
+/*This sets the text size for the paragraph about the package pricing*/
+div.PackageInformation {
+    font-size: 20px;
+  }
+
+/*This sets the text size for the paragraph about the special pack pricing*/
+  div.SpecialPackage {
+    font-size: 20px;
+  }
+
+
+  /*padding for the webpage*/
+div.padding {
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+  }
